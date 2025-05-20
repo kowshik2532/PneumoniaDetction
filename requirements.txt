@@ -1,0 +1,11 @@
+tensorflow
+keras
+matplotlib
+opencv-python
+torch
+torchvision
+torchaudio
+seaborn
+scikit-learn
+datasets
+grad-cam
